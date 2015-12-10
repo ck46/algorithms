@@ -26,3 +26,6 @@ The algorithms
 
 ### Graph Algorithms
 The following algorithms are implemented in the folder graphs:
+
+## References
+ - [Introduction to Algorithms, third edition, by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein.](https://mitpress.mit.edu/books/introduction-algorithms)
