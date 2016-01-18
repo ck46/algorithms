@@ -8,7 +8,6 @@ The algorithms of each part of the book are implemented in the appropriate folde
   - Advanced Design and Analysis Techniques - design
   - Advanced Data Structures - structures
   - Graph Algorithms - graphs
-The algorithms are implemented in the LISP language.
 
 ### Foundations
 The following algorithms are implemented in the folder foundations:
